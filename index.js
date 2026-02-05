@@ -1,1 +1,1 @@
-console.log("Proyecto base para práctica Gitflow")
+console.log("Funcionalidad websocket en desarrollo")
